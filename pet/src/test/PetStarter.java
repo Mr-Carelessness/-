@@ -6,5 +6,6 @@ public class PetStarter {
 	public static void main(String[] args) {
 		FrmLogin fm = new FrmLogin();
 		fm.setVisible(true);
+		//Ìí¼Ó×¢ÊÍ
 	}
 }
